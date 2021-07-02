@@ -5,11 +5,10 @@ import streamlit as st
 import pandas as pd
 
 # Viz Pkgs
-import matplotlib.pyplot as plt
-import matplotlib
+#import matplotlib.pyplot as plt
+#import matplotlib
 
-matplotlib.use("Agg")
-import seaborn as sns
+#import seaborn as sns
 
 
 def main():
