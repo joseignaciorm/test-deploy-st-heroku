@@ -1,0 +1,4 @@
+venv
+debug.log
+Pipfile.lock
+Pipfile
